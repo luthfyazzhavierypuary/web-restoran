@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="widht=device-widht, initial-scale=1.0">
+    <title>Restoran vier</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav> 
+        <div class="wrapper">
+            <div class="logo"><a href=' '>Restoran Van Vier</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#courses">Resep</a></li>
+                    <li><a href="#tutors">Terlaris</a></li>
+                    <li><a href="#partners">partners</a></li>
+                    <li><a href="#contact">contact</a></li>
+                    <li><a href=""  class="tbl-biru">sign up</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <!--untuk home-->
+        <section id="home">
+            <img src="https://img.freepik.com/free-vector/asian-food-set_1284-12965.jpg?w=740&t=st=1685009031~exp=1685009631~hmac=d45da3ce998575ca8899b633ba7f0e42a5772984528b0ccac0b9706ab1f968f4"/>
+            <div class="kolom">
+                <p class="deskripsi">Makan Di Restoran Aja</p>
+                <h2>kualitas mantap dan bergizi</h2>
+                <p> Restoran Van Vier Menyediakan Banyak makanan varian makanan, Mulai dari khas sabang sampai merauke</p>
+                <p> Selain itu, kami juga Menyediakan beberapa resep makanan yang bisa kalian prakterkan di rumah</p>
+                <p><a href="" class="tbl-pink">pelajari lebih lanjut</a></p>
+            </div>
+        </section>
+
+        <!--untuk course-->
+        <section id="courses">
+            <div class="kolom">
+                <p class="deskripsi">Kamu pasti membutuhkan ini</p>
+                <h2>Resep Sederhana</h2>
+                <p> Bahan-bahan :</p>
+                <p>> 400g mie telur segar</p>
+                <p>> 250g wortel, rebus, potong korek api
+                </p>
+                <p>> 4 buah telur ayam, rebus setengah matang
+                </p>
+                <p>> 1 sdm daun bawang, iris (daunnya saja)
+                </p>
+                <p>> 4 lembar nori
+                </p>
+                <p>> ½ sdt biji wijen, sangrai
+                </p>
+                <p><a href="" class="tbl-biru">pelajari lebih lanjut</a></p>
+            </div>
+            <img src="https://img.freepik.com/free-vector/flat-design-ramen-illustration_23-2149305445.jpg?size=626&ext=jpg&ga=GA1.2.379178669.1666025688&semt=ais"/>
+        </section>
+        <!--untuk tutors-->
+        <section id="tutors">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Makanan Terlaris</p>
+                    <h2> 4 makanan yang paling laris</h2>
+                    <p>Berikut adalah daftar makanan terlaris yang ada di resto kami</p>
+                </div>
+
+                <div class="tutor-list">
+                    <div class="kartu-tutor">
+                        <img src="https://img.freepik.com/free-vector/delicious-indonesian-food-illustration_23-2149292094.jpg?w=740&t=st=1685011857~exp=1685012457~hmac=646944bf99a71ddc1939452026786e162a13f98d063feb41c87a3694fe6cd70b"/>
+                        <p> Satay Ayam</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="https://img.freepik.com/free-vector/drawn-delicious-bakso-bowl_23-2148944379.jpg?w=740&t=st=1685011874~exp=1685012474~hmac=3bffa7af6eae9ebb840385720997962cec1e01449141770d2d0f1361ab4db248"/>
+                        <p> Bakso</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="https://img.freepik.com/free-vector/detailed-nasi-lemak-food-illustrated_23-2148947176.jpg?w=740&t=st=1685011950~exp=1685012550~hmac=36e8fc95170bad30de7c3fd2ad7a3fdf191360003669a1b21b6d56fcbf0671d6"/>
+                        <p> Nasi Lemak</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="https://img.freepik.com/free-vector/hand-drawn-thai-food-illustration_23-2149276815.jpg?w=740&t=st=1685011964~exp=1685012564~hmac=30dc16b3b14f9b7c2b0c9ed4d836c4ae6039b1273295624f754f2d2c5dfb537b"/>
+                        <p> Semur Telor Tahu</p>
+                    </div>
+                </div>
+            </div> 
+        </section>
+
+
+        <!--partners-->
+        <section id="partners">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Top Partners</p>
+                    <h2>Partners</h2>
+                    <p>Beberapa partner dan cabang kita yang lainnya, </p>
+                </div>
+        
+              <div class="partner-list">
+                <div class="kartu-partner">
+                    <img src="https://img.freepik.com/free-vector/german-food-label_23-2147502126.jpg?w=740&t=st=1685014121~exp=1685014721~hmac=8aa7c9bfd1216223b65a5fe3a08fc423ffc05813d1c88ced781fc9408842dccf"/>
+                </div>
+                <div class="kartu-partner">
+                    <img src="https://img.freepik.com/premium-vector/chef-restaurant-badge-logo-stock-illustrations-template_441059-244.jpg?w=740"/>
+                </div>
+                <div class="kartu-partner">
+                    <img src="https://img.freepik.com/free-vector/hand-drawn-antojitos-logo-design_23-2149574494.jpg?w=740&t=st=1685014674~exp=1685015274~hmac=35930994050c412b894918e75817d703f797630bef392bfdf7fd17c690c82297"/>
+                </div>
+                <div class="kartu-partner">
+                    <img src="https://img.freepik.com/premium-vector/chef-food-restaurant-logo_7085-179.jpg?w=740"/>
+                </div>
+              </div>
+            </div>
+        </section>
+    </div>
+    
+</body>     
+</html> 
